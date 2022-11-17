@@ -23,7 +23,7 @@ This Repo contains a QR Code Component made with HTML and CSS
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qrcomponent-ugo.netlify.app)
 
 
 ### Built with
