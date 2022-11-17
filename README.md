@@ -22,8 +22,8 @@ This Repo contains a QR Code Component made with HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://qrcomponent-ugo.netlify.app)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-using-css-flexbox-Qpn0hd_Uww
+- Live Site URL: https://qrcomponent-ugo.netlify.app
 
 
 ### Built with
@@ -42,6 +42,6 @@ I plan to read and further understand how to make sites responsive using media q
 ## Author
 
 - Website - [Ozoeze Ugo Nwando](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Ugonadia](https://www.frontendmentor.io/profile/Ugonadia)
 - Twitter - [@_justugo](https://www.twitter.com/_justugo)
 
